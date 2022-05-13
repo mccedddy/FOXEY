@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Through
+  - Damage
+  - Goal
+  - Cherry
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - Damage
+  - Goal
+  - Cherry
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1611635347
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Middle
+    uniqueID: 909454923
+    locked: 0
+  - name: Foreground
+    uniqueID: 2803526775
+    locked: 0
+  - name: Damage
+    uniqueID: 2448601941
+    locked: 0
+  - name: Player
+    uniqueID: 2768043145
+    locked: 0
+  - name: UI
+    uniqueID: 1077448965
+    locked: 0
